@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: Advanced React patterns, TypeScript, and performance optimization for modern web apps.<br>🎯 Goals:<br>* Build accessible, high-performance web applications<br>* Deepen my expertise in React, TypeScript, and Next.js.<br>* Contribute to open-source projects and collaborate with the dev community.<br>* Continuously improve UI/UX skills and stay updated with modern <br>frontend trends.</p>
+<p align="left">📚 I'm currently learning: Advanced React patterns, TypeScript, and performance optimization for modern web apps.<br>🎯 Goals:<br>* Build accessible, high-performance web applications<br>* Deepen my expertise in React, TypeScript, and Next.js.<br>* Contribute to open-source projects and collaborate with the dev community.<br>* Continuously improve UI/UX skills and stay updated with modern frontend trends.</p>
 
 ###
 
