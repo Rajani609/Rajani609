@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">My name is Rajani Shrivastva  and I'm a Developer.</h4>
+<p align="left">My name is Rajani Shrivastva  and I'm a Developer.</p>
 
 ###
 
-<h4 align="left"><b>About me</b><br><br>Passionate Frontend Developer crafting clean, responsive UIs with modern web technologies.<br>I love turning ideas into interactive, user-friendly web experiences.</h4>
+<h3 align="left"><b>About me<h3></b><br><br><p>Passionate Frontend Developer crafting clean, responsive UIs with modern web technologies.<br>I love turning ideas into interactive, user-friendly web experiences.</p>
 
 ###
 
