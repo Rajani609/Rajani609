@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rajani Shrivastva  and I'm a Developer.</p>
+<h4 align="left">My name is Rajani Shrivastva  and I'm a Developer.</h4>
 
 ###
 
