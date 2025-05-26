@@ -6,11 +6,11 @@
 
 ###
 
-<h4 align="left">About me<br><br>Passionate Frontend Developer crafting clean, responsive UIs with modern web technologies.<br>I love turning ideas into interactive, user-friendly web experiences.</h4>
+<h4 align="left"><b>About me</b><br><br>Passionate Frontend Developer crafting clean, responsive UIs with modern web technologies.<br>I love turning ideas into interactive, user-friendly web experiences.</h4>
 
 ###
 
-<p align="left">📚 I'm currently learning:  Advanced React patterns, TypeScript, and performance optimization for modern web apps.<br><br>🎯 Goals:<br>* Build accessible, high-performance web applications.<br><br>* Deepen my expertise in React, TypeScript, and Next.js.<br><br>* Contribute to open-source projects and collaborate with the dev community.<br><br>* Continuously improve UI/UX skills and stay updated with modern frontend trends.</p>
+<p align="left">📚 <b>I'm currently learning:</b>  Advanced React patterns, TypeScript, and performance optimization for modern web apps.<br><br>🎯 <b>Goals:</b><br>* Build accessible, high-performance web applications.<br><br>* Deepen my expertise in React, TypeScript, and Next.js.<br><br>* Contribute to open-source projects and collaborate with the dev community.<br><br>* Continuously improve UI/UX skills and stay updated with modern frontend trends.</p>
 
 ###
 
