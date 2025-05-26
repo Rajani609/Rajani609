@@ -1,23 +1,18 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
 <p align="left">My name is Rajani Shrivastva  and I'm a Developer.</p>
 
 ###
-
-<h3 align="left"><b>About me<h3></b><br><br><p>Passionate Frontend Developer crafting clean, responsive UIs with modern web technologies.<br>I love turning ideas into interactive, user-friendly web experiences.</p>
+<h4 align="left"><b>About me</b><br><br><p>Passionate Frontend Developer crafting clean, responsive UIs with modern web technologies.<br>I love turning ideas into interactive, user-friendly web experiences.</h4>
 
 ###
-
 <p align="left">📚 <b>I'm currently learning:</b>  Advanced React patterns, TypeScript, and performance optimization for modern web apps.<br><br>🎯 <b>Goals:</b><br>* Build accessible, high-performance web applications.<br><br>* Deepen my expertise in React, TypeScript, and Next.js.<br><br>* Contribute to open-source projects and collaborate with the dev community.<br><br>* Continuously improve UI/UX skills and stay updated with modern frontend trends.</p>
 
 ###
-
 <h2 align="left">I code with</h2>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
